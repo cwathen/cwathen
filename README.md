@@ -1,6 +1,6 @@
  👋 Hello there! I am Crista Wathen, Ph.D.
  <p>
- 🌱 I’m an Archaeologist through my formal education and am a self-taught Data Scientist. I have traded my trowel for a computer and have realized how everything is comprised of data, and can be applied to the humanities, especially archaeology. I have been using Excel for 10+ years but have in the last few years been using R and Python to create diagrams and graphs for easy interpretation of large amounts of quantitative data for academic publications</p>
+ 🌱 I’m a formally educated Archaeologist and a self-taught Data Scientist. While working as a Research Archaeologist, I realized that how Data Science methods, including analysing data, conducting statistical analysis, creating diagrams and graphs, and machine learning techniques all apply in the research context and the private sector. So I decided to trade my trowel in for a computer and have been using these skills in other sectors, such as a the finance sector. </p>
  📫 Connect with me 
  <p> 1. <a href="https://www.linkedin.com/in/crista-wathen/">LinkedIn</a></p>
  <p> 2. <a href="https://twitter.com/cristaawathen">Twitter</a></p>
